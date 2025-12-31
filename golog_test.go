@@ -411,7 +411,7 @@ func TestLaravelStyleUsage(t *testing.T) {
 		"products": []map[string]any{
 			{
 				"id":       104,
-				"title":    "بطاقة 5$ ايتونز - أمريكي",
+				"title":    "Product Title",
 				"quantity": 1,
 			},
 		},

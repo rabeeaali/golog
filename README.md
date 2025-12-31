@@ -122,7 +122,7 @@ golog.Info("create cart clone - START", map[string]any{
     "products": []map[string]any{
         {
             "id":       104,
-            "title":    "بطاقة 5$ ايتونز - أمريكي",
+            "title":    "Product Title",
             "quantity": 1,
         },
     },
