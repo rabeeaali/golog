@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/golog-pkg/golog"
+	"github.com/rabeeaali/golog"
 )
 
 func main() {

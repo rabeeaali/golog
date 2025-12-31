@@ -1,3 +1,3 @@
-module github.com/golog-pkg/golog
+module github.com/rabeeaali/golog
 
 go 1.21

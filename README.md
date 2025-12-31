@@ -1,9 +1,9 @@
 # GoLog 📝
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/golog-pkg/golog.svg)](https://pkg.go.dev/github.com/golog-pkg/golog)
-[![Go Report Card](https://goreportcard.com/badge/github.com/golog-pkg/golog)](https://goreportcard.com/report/github.com/golog-pkg/golog)
-[![CI](https://github.com/golog-pkg/golog/actions/workflows/ci.yml/badge.svg)](https://github.com/golog-pkg/golog/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/golog-pkg/golog/branch/main/graph/badge.svg)](https://codecov.io/gh/golog-pkg/golog)
+[![Go Reference](https://pkg.go.dev/badge/github.com/rabeeaali/golog.svg)](https://pkg.go.dev/github.com/rabeeaali/golog)
+[![Go Report Card](https://goreportcard.com/badge/github.com/rabeeaali/golog)](https://goreportcard.com/report/github.com/rabeeaali/golog)
+[![CI](https://github.com/rabeeaali/golog/actions/workflows/ci.yml/badge.svg)](https://github.com/rabeeaali/golog/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/rabeeaali/golog/branch/main/graph/badge.svg)](https://codecov.io/gh/rabeeaali/golog)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A **Laravel-inspired** logging package for Go with support for multiple drivers and channels.
@@ -22,7 +22,7 @@ A **Laravel-inspired** logging package for Go with support for multiple drivers 
 ## 📦 Installation
 
 ```bash
-go get github.com/golog-pkg/golog
+go get github.com/rabeeaali/golog
 ```
 
 ## 🚀 Quick Start
@@ -30,7 +30,7 @@ go get github.com/golog-pkg/golog
 ```go
 package main
 
-import "github.com/golog-pkg/golog"
+import "github.com/rabeeaali/golog"
 
 func main() {
     // Initialize with default configuration (logs to file)

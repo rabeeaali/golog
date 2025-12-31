@@ -30,7 +30,7 @@ linters-settings:
   gofmt:
     simplify: true
   goimports:
-    local-prefixes: github.com/golog-pkg/golog
+    local-prefixes: github.com/rabeeaali/golog
   misspell:
     locale: US
 

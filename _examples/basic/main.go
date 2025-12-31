@@ -8,7 +8,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/golog-pkg/golog"
+	"github.com/rabeeaali/golog"
 )
 
 func main() {

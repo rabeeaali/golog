@@ -49,5 +49,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - YAML/JSON compatible config structs
 - Default configuration with sensible defaults
 
-[Unreleased]: https://github.com/golog-pkg/golog/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/golog-pkg/golog/releases/tag/v1.0.0
+[Unreleased]: https://github.com/rabeeaali/golog/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/rabeeaali/golog/releases/tag/v1.0.0
